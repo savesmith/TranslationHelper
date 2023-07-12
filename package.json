@@ -1,0 +1,14 @@
+{
+  "name": "translationhelper",
+  "version": "1.0.0",
+  "description": "Add hidden translations to messages for practicing languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SavySolutions",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
